@@ -57,3 +57,12 @@ Given that this script makes a call every 10 minutes, users are required to regi
 
 ## Acknowledgments
 This project utilizes data from the TDX platform, provided by the Taiwanese government to promote the use of shared transportation data.
+
+
+## Reference Links
+[Blog Tutorial](https://blog.jiatool.com/posts/tdx_python/)
+
+## Official Documentation
+[Official TDX Documentation](https://github.com/tdxmotc/SampleCode)
+
+
